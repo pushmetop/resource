@@ -7,7 +7,7 @@
 ## 配置
 
 * donate - 捐助和联系方式相关二维码
-* lockme - [LockMe](https://github.com/pushmetop/lockme)小程序相关演示图
+* lockme - [LockMe 小程序](https://github.com/pushmetop/lockme) 相关演示图
 
 ## 打赏&联系
 
